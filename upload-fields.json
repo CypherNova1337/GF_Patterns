@@ -1,0 +1,4 @@
+{
+    "flags": "-HnriE",
+    "pattern": "<input[^>]+type=[\"']?file[\"']?|name=[\"']?(file|filename|upload|image|attachment)[\"']?|ondrop|ondragover"
+}

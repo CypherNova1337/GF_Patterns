@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(<!DOCTYPE|<!ENTITY|com.sun.org.apache.xerces|Content is not allowed in prolog|DOCTYPE improperly terminated|DocumentBuilderFactory|DOMParser|Error unmarshalling XML|failed to load external entity|illegal character code|Invalid URI: file|lxml|Malformed declaration|nokogiri|no root element|not well-formed|org.xml.sax|ParseError|parser error|PUBLIC|REXML|SAXParseException|simplexml_load_string|Start tag expected|SYSTEM|SyntaxError|XML syntax error on line|XMLReader|xmlParseEntityDecl|xmlParseInternalSubset)"
+}

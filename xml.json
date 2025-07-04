@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(xml|xerces|sax|etree|xpath|documentbuilder|libxml|lxml|DOMParser|XMLReader|JAXB|XSLT|XQuery|DOCTYPE|ENTITY|SYSTEM|PUBLIC)"
+}

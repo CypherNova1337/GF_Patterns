@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(A closing bracket expected in|An operand in Union Expression does not produce a node-set|Cannot convert expression to a number|DOMXPath|Document Axis does not allow any context Location Steps|Empty Path Expression|Empty Relative Location Path|Empty Union Expression|Expected ')' in|Expected node test or name specification after axis operator|Expression must evaluate to a node-set|Incompatible XPath key|Incorrect Variable Binding|Invalid expression|Invalid predicate|libxml2|MS.Internal.Xml|msxml3.dll|msxml4.dll|org.apache.xpath.XPath|Query is not understandable|SimpleXMLElement::xpath|System.Xml.XPath.XPathException|Unknown error in XPath|xmlXPathEval|xmlsec)"
+}

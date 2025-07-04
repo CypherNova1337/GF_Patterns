@@ -1,0 +1,4 @@
+{
+    "flags": "-iE",
+    "pattern": "(add|api|api_key|author|begindate|bio|body|callback|categoryid|comment|content|data|dest|destination|email|emailto|enddate|err|error|file|format|from|id|image|immagine|input|item|jsonp|key|keyword|keywords|l|lang|list_type|message|msg|month|name|next|p|page|page_id|param|password|path|profile|q|query|redirect|ref|reply|return|return_to|s|search|subject|term|terms|token|type|unsubscribe_token|url|uri|user|username|view|year)="
+}

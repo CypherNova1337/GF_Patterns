@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(pasword|passwrod|pasword|passord|secrete|secert|privet|privte|tokne|authoization|authorisation|authenticaton)"
+}

@@ -1,0 +1,4 @@
+{
+    "flags": "-oriahE",
+    "pattern": "(https|http|ftp|ftps|ws|wss)://[^\"'<>\\s]+"
+}
