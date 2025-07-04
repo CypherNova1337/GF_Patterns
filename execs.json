@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(eval|run|exec|process|system|popen|spawn|dup2|passthru|shell_exec|backtick|os.system|os.popen|Runtime.exec|ProcessBuilder|child_process|require('child_process'))"
+}

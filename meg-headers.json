@@ -1,0 +1,4 @@
+{
+    "flags": "-hroiE",
+    "pattern": "^\u003c (Server|X-Powered-By|X-AspNet-Version|Access-Control-Allow-Origin|Content-Security-Policy|Set-Cookie|X-Debug-Token|Via|X-Forwarded-For|Strict-Transport-Security|X-Frame-Options|X-XSS-Protection): .*"
+}

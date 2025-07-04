@@ -1,0 +1,4 @@
+{
+    "flags": "-HnroE",
+    "pattern": "(eyJ|YTo|Tzo|PD[89]|aHR0cHM6L|aHR0cDo|rO0|ZGF0YT|cGFzc3dvcmQ|dXNlcm5hbWU|YXV0aG9yaXphdGlvbg)[a-zA-Z0-9+/=]{12,}|[a-zA-Z0-9+/]{30,}={0,2}"
+}

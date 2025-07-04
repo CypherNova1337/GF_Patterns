@@ -1,0 +1,4 @@
+{
+    "flags": "-iE",
+    "pattern": "\\.(action|adr|ascx|asmx|axd|backup|bak|bkf|bkp|bok|cache|cfg|cfm|cgi|cnf|conf|config|crt|csr|csv|dat|db|doc|docx|dump|eml|env|exe|gz|ica|inf|ini|java|json|key|keychain|log|lst|mai|mbox|mbx|md|mdf|nsf|old|ora|pac|passwd|pcf|pdf|pem|p12|pfx|pgp|pl|plist|ps1|pwd|rdp|reg|rtf|sh|skr|sql|sqlite|swf|swp|swo|tar|tfvars|tfstate|toml|tpl|txt|url|wml|xls|xlsx|xml|xsd|yaml|yml|zip|7z)"
+}

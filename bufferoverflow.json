@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(strcpy|strcat|sprintf|vsprintf|gets|scanf|memcpy|memmove|gets_s|stack smashing detected|segmentation fault|segfault|access violation|stack canary|fortify_source|Backtrace|Memory map)"
+}

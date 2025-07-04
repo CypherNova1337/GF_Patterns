@@ -1,0 +1,4 @@
+{
+    "flags": "-iE",
+    "pattern": "(account|article|author|by|cart|cat|category|cid|class|column|customer|date|delete|dir|email|fetch|field|file|filter|from|group|having|id|item|join|keyword|lang|limit|login|main|menu|name|nav|news|no|number|order|orm|page|params|pass|password|pid|process|product|q|query|ref|region|register|report|reset|results|role|row|search|sel|select|session|sleep|sort|string|table|thread|time|title|topic|type|uid|update|user|username|users|view|where)="
+}

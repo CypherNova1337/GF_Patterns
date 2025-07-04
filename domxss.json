@@ -1,0 +1,4 @@
+{
+    "flags": "-iE",
+    "pattern": "(innerHTML|outerHTML|insertAdjacentHTML|document.write|document.writeln|eval|setTimeout|setInterval|execScript|Function|crypto.generateCRMFRequest|location.href|location.search|location.hash|location.pathname|document.URL|document.documentURI|window.name|postMessage|messageListener|document.cookie|setAttribute|redirectUrl)"
+}

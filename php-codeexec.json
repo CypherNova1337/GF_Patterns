@@ -1,0 +1,4 @@
+{
+    "flags": "-HnriE",
+    "pattern": "(assert|eval|preg_replace|create_function|include|include_once|require|require_once|system|exec|passthru|shell_exec|popen|proc_open|call_user_func|call_user_func_array|pcntl_exec|backtick|`)"
+}

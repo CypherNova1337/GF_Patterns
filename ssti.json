@@ -1,0 +1,4 @@
+{
+    "flags": "-iE",
+    "pattern": "(activity|content|document|format|id|layout|name|page|preview|redirect|style|template|view)="
+}

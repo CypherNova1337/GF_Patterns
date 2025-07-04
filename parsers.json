@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(parse|open|request|validate|verify|load|read|decode|unmarshal|deserialize|handle|process|JSON.parse|XML|YAML|CSV|DOMParser|DOMPurify|sanitize|escape)"
+}

@@ -1,0 +1,4 @@
+{
+    "flags": "-Prohi",
+    "pattern": "ghp_[0-9a-zA-Z]{36}|gho_[0-9a-zA-Z]{36}|ghu_[0-9a-zA-Z]{36}|ghs_[0-9a-zA-Z]{36}|ghr_[0-9a-zA-Z]{70}"
+}

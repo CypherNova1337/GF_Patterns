@@ -1,0 +1,4 @@
+{
+    "flags": "-HnriE",
+    "pattern": "(bzopen|file|file_get_contents|fopen|gzopen|readfile|SplFileObject|stream_context_create|tmpfile)"
+}

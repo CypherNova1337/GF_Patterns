@@ -1,0 +1,4 @@
+{
+    "flags": "-iE",
+    "pattern": "(access|admin|adm|alter|cfg|clone|config|create|dbg|debug|delete|disable|edit|enable|env|environment|exec|execute|grant|impersonate|load|log_level|make|modify|no_auth|rename|reset|root|shell|show_errors|sudo|test|toggle|verbose)="
+}

@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(api_key|api-key|apikey|inference|prediction|prompt|pytorch|tensorflow|keras|scikit-learn|huggingface|hugging_face|cohere|openai|anthropic|claude_api|gemini_api|vertex_ai|sagemaker|azure_ai|bedrock|langchain|llama_index|embed|embedding|transformer|attention|neural_network|model_id|model_key|endpoint_id|project_id|finetune|fine_tune|hyperparameter|batch_size|learning_rate|training_data|validation_data|llm_token|llm_key|llm_secret|vector_db|pinecone|weaviate|chromadb|faiss|milvus|qdrant|rerank|rag)"
+}

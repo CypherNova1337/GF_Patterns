@@ -1,0 +1,4 @@
+{
+    "flags": "-Prohi",
+    "pattern": "(SK|AC)[0-9a-fA-F]{32}|TWILIO_ACCOUNT_SID|TWILIO_AUTH_TOKEN|TWILIO_API_KEY"
+}

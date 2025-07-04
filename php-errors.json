@@ -1,0 +1,4 @@
+{
+    "flags": "-HnriE",
+    "pattern": "(php warning|php error|fatal error|parse error|uncaught exception|include_path|undefined index|undefined variable|stack trace:|expects parameter|Debug Trace|failed to open stream|call to a member function on a non-object|Xdebug|whoops!)"
+}

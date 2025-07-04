@@ -1,0 +1,4 @@
+{
+    "flags": "-HnriE",
+    "pattern": "(assert|backtick|create_function|eval|exec|file_exists|file_put_contents|filemtime|filesize|header|include|include_once|md5_file|mysql_query|mysqli_query|passthru|pcntl_exec|phpinfo|popen|preg_replace|proc_open|query|require|require_once|shell_exec|system|unserialize|unlink)"
+}

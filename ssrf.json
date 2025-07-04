@@ -1,0 +1,4 @@
+{
+    "flags": "-iE",
+    "pattern": "(callback|continue|data|dest|destination|domain|endpoint|feed|file|filename|host|html|img|image_url|import|load|next|open|out|page|path|port|proxy|redirect|reference|return|show|site|to|uri|url|view|window)="
+}

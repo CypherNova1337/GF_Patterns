@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "((?:A3T[A-Z0-9]|AKIA|AGPA|AIDA|AROA|AIPA|ANPA|ANVA|ASIA)[A-Z0-9]{16})|AWS_ACCESS_KEY_ID|AWS_SECRET_ACCESS_KEY|AWS_SESSION_TOKEN|aws_access_key_id|aws_secret_access_key|aws_session_token"
+}

@@ -1,0 +1,4 @@
+{
+    "flags": "-HnriE",
+    "pattern": "Access-Control-Allow-Origin|Access-Control-Allow-Credentials|Access-Control-Allow-Methods|Access-Control-Allow-Headers|ACAO|ACAC|ACAM|ACAH"
+}

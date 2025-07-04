@@ -1,0 +1,4 @@
+{
+    "flags": "-HnriE",
+    "pattern": "(exif_imagetype|exif_read_data|exif_thumbnail|file|file_exists|file_get_contents|fileatime|filectime|filegroup|fileinode|filemtime|fileowner|fileperms|filesize|filetype|fgetc|fgets|fread|ftp_nb_put|ftp_put|get_meta_tags|getimagesize|glob|gzfile|hash_file|hash_hmac_file|hash_update_file|highlight_file|imagecreatefromgif|imagecreatefromjpeg|imagecreatefrompng|imagecreatefromwbmp|imagecreatefromxbm|imagecreatefromxpm|is_dir|is_executable|is_file|is_link|is_readable|is_uploaded_file|is_writable|is_writeable|linkinfo|lstat|md5_file|opendir|parse_ini_file|pathinfo|php_strip_whitespace|readdir|read_exif_data|readfile|readgzfile|readlink|realpath|scandir|sha1_file|show_source|stat)"
+}

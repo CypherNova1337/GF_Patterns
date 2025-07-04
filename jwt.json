@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "eyJ[a-zA-Z0-9_-]+\\.[a-zA-Z0-9_-]+\\.[a-zA-Z0-9_-]+|jwt|jks|jwk|jku|jti|alg|kid|x5c"
+}

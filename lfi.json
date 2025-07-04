@@ -1,0 +1,4 @@
+{
+    "flags": "-iE",
+    "pattern": "(action|asset|board|cat|conf|content|data|date|detail|dir|display|doc|document|document_root|download|fetch|file|file_name|file_path|filename|folder|form|id|image|img|inc|include|item|l|language|layout|lib|load|locate|main|mod|name|nav|open|p|page|page_id|param|path|pdf|pg|php_path|prefix|process|query|read|require|resource|return|root|script|service|show|site|src|static|style|system|template|template_path|theme|type|url|uri|val|view)="
+}

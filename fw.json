@@ -1,0 +1,4 @@
+{
+    "flags": "-HnriE",
+    "pattern": "(django|laravel|symfony|graphite|grafana|X-Drupal-Cache|struts|codeigniter|cakephp|grails|elasticsearch|kibana|logstash|tomcat|jenkins|jira|Chef|RabbitMQ|Mongo|artifactory|flask|spring boot|ruby on rails|express.js|next.js|nestjs|fastapi|react|vue|angular|svelte|docker|kubernetes|terraform|ansible|wordpress|joomla)"
+}

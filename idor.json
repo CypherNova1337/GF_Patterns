@@ -1,0 +1,4 @@
+{
+    "flags": "-iE",
+    "pattern": "(id|uid|user|account|number|order|no|doc|key|email|group|profile|edit|report|user_id|account_id|customer_id|group_id|member_id|session_id|product_id|order_id|cart_id|invoice_id|payment_id|transaction_id|file_id|doc_id|photo_id|uuid|guid|tenant_id|org_id|file|path|retrieve)="
+}

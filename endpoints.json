@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(\"|')/?(api/v[0-9]+|api|v[0-9]+|auth|oauth|token|users|posts|products|graphql|/|[a-zA-Z0-9/_-]+[.](php|asp|aspx|jsp|json|xml|html|js))/?([a-zA-Z0-9/_.?=&\\-]*?)(\"|')"
+}

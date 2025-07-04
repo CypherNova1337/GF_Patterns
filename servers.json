@@ -1,0 +1,5 @@
+{
+    "flags": "-hri",
+    "pattern": "(Server:|X-Powered-By:|apache|nginx|iis|litespeed|caddy|openresty|tomcat|jetty|jboss|glassfish|gunicorn|cloudflare|akamai|awselb|haproxy|varnish)",
+    "unique": true
+}

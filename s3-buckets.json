@@ -1,0 +1,4 @@
+{
+    "flags": "-Prohi",
+    "pattern": "[a-zA-Z0-9.-]+\\.(s3.amazonaws.com|storage.googleapis.com|digitaloceanspaces.com)"
+}

@@ -1,0 +1,4 @@
+{
+    "flags": "-hrioE",
+    "pattern": "\"([a-zA-Z0-9_-]*?(key|secret|token|password|auth|bearer|credential|private|api_key|client_id|client_secret|access_token|refresh_token)[a-zA-Z0-9_-]*?)\"\\s*:\\s*\"([^\"]+)\""
+}

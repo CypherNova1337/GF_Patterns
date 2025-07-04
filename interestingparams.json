@@ -1,0 +1,4 @@
+{
+    "flags": "-iE",
+    "pattern": "(access|account|activity|adm|admin|alter|callback|cfg|cli|clone|cmd|column|config|content|continue|create|daemon|data|dbg|debug|delete|dest|destination|dir|disable|doc|document|domain|download|edit|email|enable|exec|execute|feed|fetch|field|file|file_name|file_url|filename|filter|folder|folder_url|forward|from|from_url|gid|go|goto|grant|group|host|html|id|img|image_url|img_url|ip|keyword|key|load|load_file|load_url|log|login_url|logout|make|modify|name|navigation|next|next_page|no|number|open|order|out|page|page_url|params|path|pdf|pg|php_path|port|preview|process|profile|query|redir|redirect|redirect_to|redirect_uri|redirect_url|reference|rename|report|reset|results|return|return_path|return_to|returnTo|return_url|role|root|row|rt|rurl|search|sel|select|shell|show|site|sleep|sort|string|style|table|template|test|toggle|to|update|upload|url|user|uid|uri|val|validate|view|window)="
+}

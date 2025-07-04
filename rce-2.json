@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(root:|uid=|gid=|groups=|whoami|Linux version|GNU/Linux|bash: command not found|permission denied|drwxr-xr-x|total 0|/etc/passwd|\\b(?:[0-9]{1,3}\\.){3}[0-9]{1,3}\\b|Microsoft Windows \\[Version|Volume in drive C|Directory of|Active Connections|Configuration File \\(php.ini\\))"
+}

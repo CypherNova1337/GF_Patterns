@@ -1,0 +1,4 @@
+{
+    "flags": "-HnriE",
+    "pattern": "firebaseConfig|firebase.initializeApp|private_key_id|client_email|private_key|\\.firebaseio\\.com|storageBucket|project_id|messagingSenderId"
+}

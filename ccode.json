@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(alloc|malloc|calloc|realloc|free|strcpy|gets|strncpy|strcat|sprintf|snprintf|scanf|sscanf|printf|fprintf|vsprintf|vprintf|system|exec|popen|fopen|fread|fwrite|memcpy|memmove)"
+}

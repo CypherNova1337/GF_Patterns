@@ -1,0 +1,4 @@
+{
+    "flags": "-iE",
+    "pattern": "(img|image|file|path|url|src|icon|logo)=[a-zA-Z0-9/._-]+\\.(jpg|jpeg|png|gif|svg|webp|bmp|ico)"
+}

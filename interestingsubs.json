@@ -1,0 +1,4 @@
+{
+    "flags": "-iE",
+    "pattern": "(admin|adm|alpha|api|auth|backup|beta|blog|ci|cd|cdn|config|crm|dashboard|db|dev|devops|docker|docs|elk|ftp|git|grafana|internal|jenkins|jira|k8s|kubernetes|logs|mail|mfa|mongo|mysql|portal|prod|proxy|qa|sentry|sftp|shop|signin|signup|sso|staff|stage|staging|status|support|test|uat|vault|vpn|web)"
+}

@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(POST|GET|PUT|DELETE|api|apiKey|Authorization|Bearer|token|secret|password|setRequestHeader|onreadystatechange|fetch|axios|XMLHttpRequest|localStorage|sessionStorage|document.cookie|eval|setTimeout|innerHTML|outerHTML|postMessage|location.href|getParameter)"
+}

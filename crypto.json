@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(aes|rsa|dsa|des|cbc|ecb|hmac|gcm|cfb|ofb|ctr|privatekey|publickey|md5|sha1|sha256|sha512|sha3|blake2|bcrypt|scrypt|pbkdf2|cipher|crypto|encrypt|decrypt|digest|sign|verify|iv|nonce|salt|openssl|gcm|chacha20|rc4|blowfish|twofish|ecc|ed25519)"
+}

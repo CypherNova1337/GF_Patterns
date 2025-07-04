@@ -1,0 +1,4 @@
+{
+    "flags": "-iE",
+    "pattern": "(arg|call|cli|cmd|code|command|daemon|dir|do|download|exec|exe|execute|feature|func|function|ip|jump|load|log|module|option|payload|ping|print|process|query|read|reg|req|run|shell|step|system|template|upload|view)="
+}

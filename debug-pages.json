@@ -1,0 +1,4 @@
+{
+    "flags": "-HnraiE",
+    "pattern": "(Application-Trace|Routing Error|DEBUG\"? ?[=:] ?True|Caused by:|stack trace:|Traceback|NullPointerException|Exception:|SyntaxError|Fatal error|An unhandled exception occurred|Microsoft .NET Framework|[0-9]:in `|#!/us|WebApplicationException|java\\.lang\\.|phpinfo|swagger-ui|swagger.json|/_debugbar/|/_profiler/|whoops!|X-Debug-Token|SQLSTATE|on line [0-9])"
+}
