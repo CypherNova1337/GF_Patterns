@@ -1,0 +1,4 @@
+{
+    "flags": "-HnriEo",
+    "pattern": "PMAK-[a-fA-F0-9]{24}-[a-fA-F0-9]{34}|PMAT-[a-zA-Z0-9]{24}"
+}

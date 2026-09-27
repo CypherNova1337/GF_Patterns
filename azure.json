@@ -1,0 +1,4 @@
+{
+    "flags": "-HnriEo",
+    "pattern": "AccountKey=[A-Za-z0-9+/]{86}==|DefaultEndpointsProtocol=https;AccountName=[a-z0-9]{3,24};AccountKey=[A-Za-z0-9+/]{86}==|SharedAccessKey=[A-Za-z0-9+/]{43}=|sig=[A-Za-z0-9%]{43,53}%3D|[a-z0-9]{3,24}\\.blob\\.core\\.windows\\.net"
+}

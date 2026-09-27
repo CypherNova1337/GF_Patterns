@@ -1,0 +1,4 @@
+{
+    "flags": "-HnrEo",
+    "pattern": "sk-proj-[A-Za-z0-9_-]{74,}|sk-svcacct-[A-Za-z0-9_-]{40,}|sk-admin-[A-Za-z0-9_-]{40,}|sk-[A-Za-z0-9]{48}|sk-ant-api03-[A-Za-z0-9_-]{80,}|sk-ant-admin01-[A-Za-z0-9_-]{80,}|gsk_[A-Za-z0-9]{52}|r8_[A-Za-z0-9]{37}|hf_[A-Za-z0-9]{34}|pplx-[A-Za-z0-9]{40,}|xai-[A-Za-z0-9]{80}"
+}

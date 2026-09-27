@@ -1,0 +1,4 @@
+{
+    "flags": "-iE",
+    "pattern": "\\[\\$(ne|eq|gt|gte|lt|lte|in|nin|regex|where|exists|or|and|not|nor|expr|elemMatch|all|size|text|search)\\]|\\$where[\"'\\s]*[:=]|\\{\\s*[\"']?\\$(ne|gt|regex|where|expr)"
+}

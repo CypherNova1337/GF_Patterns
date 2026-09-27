@@ -38,8 +38,9 @@ Modern secrets have specific, identifiable formats. Instead of just looking for 
 
 The web isn't just PHP and jQuery anymore. We've added hundreds of new keywords and entire new pattern files to cover the modern technology landscape.
 
-- **Cloud Providers:** AWS, Google Cloud (GCP), Azure.
-- **SaaS & APIs:** Stripe, Twilio, Slack, Mailgun, SendGrid, etc.
+- **Cloud Providers:** AWS, Google Cloud (GCP), Azure, DigitalOcean.
+- **SaaS & APIs:** Stripe, Twilio, Slack, Mailgun, SendGrid, GitLab, npm, Shopify, Postman, Discord, Telegram, etc.
+- **LLM / AI Providers:** Format-anchored keys for OpenAI, Groq, Replicate, Hugging Face and others (`llm-keys`), tuned for high confidence and low false positives.
 - **Modern Frameworks:** React, Vue, Next.js, FastAPI, Spring Boot.
 - **DevOps & Infrastructure:** Docker, Kubernetes, Terraform, Jenkins.
 - **New Frontiers:** A brand new `ai.json` pattern to find keywords related to AI/ML services, frameworks (PyTorch, TensorFlow), and vector databases (Pinecone, Weaviate).
@@ -95,11 +96,12 @@ This collection includes rewritten and expanded patterns for:
 
 | Category                  | Examples                                     |
 | ------------------------- | -------------------------------------------- |
-| **Secrets & API Keys** | `aws-keys`, `google-keys`, `stripe`, `github`  |
-| **Vulnerabilities** | `sqli`, `xss`, `ssrf`, `lfi`, `rce`, `ssti`    |
-| **Technology Fingerprints** | `fw` (frameworks), `servers`, `jsvar`          |
+| **Secrets & API Keys** | `aws-keys`, `google-keys`, `stripe`, `github` (incl. fine-grained PATs), `gitlab`, `npm`, `digitalocean`, `shopify`, `azure`, `postman`, `llm-keys` |
+| **Vulnerabilities** | `sqli`, `xss`, `ssrf`, `lfi`, `rce`, `ssti`, `nosqli`, `prototype-pollution` |
+| **Technology Fingerprints** | `fw` (frameworks), `servers`, `jsvar`, `graphql` |
 | **Interesting Files** | `secret-ext`, `interesting-ext`, `debug-pages` |
-| **New Additions** | `ai`, `crypto`, `jwt`                          |
+| **Messaging & Webhooks** | `discord`, `telegram`, `slack-token`, `slack-webhook` |
+| **New Additions** | `ai`, `crypto`, `jwt`, `llm-keys`, `graphql`, `nosqli`, `prototype-pollution` |
 
 ## Contributing
 
