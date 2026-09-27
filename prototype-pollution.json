@@ -1,0 +1,4 @@
+{
+    "flags": "-iE",
+    "pattern": "(__proto__|constructor|prototype)(\\[|\\.|%5b|%2e)|(\\[|%5b)(__proto__|constructor|prototype)(\\]|%5d)"
+}

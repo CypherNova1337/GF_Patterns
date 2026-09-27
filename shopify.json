@@ -1,0 +1,4 @@
+{
+    "flags": "-HnrEo",
+    "pattern": "shpat_[a-fA-F0-9]{32}|shpca_[a-fA-F0-9]{32}|shppa_[a-fA-F0-9]{32}|shpss_[a-fA-F0-9]{32}"
+}

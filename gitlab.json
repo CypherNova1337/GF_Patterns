@@ -1,0 +1,4 @@
+{
+    "flags": "-HnriEo",
+    "pattern": "glpat-[0-9a-zA-Z_-]{20}|gldt-[0-9a-zA-Z_-]{20}|glrt-[0-9a-zA-Z_-]{20}|glcbt-[0-9a-zA-Z_-]{20}|glptt-[0-9a-zA-Z_-]{20}|glsoat-[0-9a-zA-Z_-]{20}|glft-[0-9a-zA-Z_-]{20}|GR1348941[0-9a-zA-Z_-]{20}|glpat-[0-9a-zA-Z_-]{27,}\\.[0-9a-z]{2}[0-9a-z]{7}"
+}

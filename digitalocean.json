@@ -1,0 +1,4 @@
+{
+    "flags": "-HnrEo",
+    "pattern": "dop_v1_[a-f0-9]{64}|doo_v1_[a-f0-9]{64}|dor_v1_[a-f0-9]{64}"
+}

@@ -1,0 +1,4 @@
+{
+    "flags": "-iE",
+    "pattern": "(/graphql|/graphiql|/gql|/v1/graphql|/api/graphql|/query)\\b|IntrospectionQuery|__schema\\s*\\{|__typename|\\bmutation\\s+[a-zA-Z_]|\\bsubscription\\s+[a-zA-Z_]|onError.*graphql"
+}

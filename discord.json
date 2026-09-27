@@ -1,0 +1,4 @@
+{
+    "flags": "-HnrEo",
+    "pattern": "[MNO][A-Za-z0-9_-]{23,25}\\.[A-Za-z0-9_-]{6}\\.[A-Za-z0-9_-]{27,38}|https://(canary\\.|ptb\\.)?discord(app)?\\.com/api/webhooks/[0-9]{17,20}/[A-Za-z0-9_-]{60,68}"
+}
